@@ -1,0 +1,99 @@
+Monash University : grid.1002.3
+The University of Queensland : grid.1003.2
+UNSW Sydney : grid.1005.4
+University of Melbourne : grid.1008.9
+The University of Sydney : grid.1013.3
+RWTH Aachen University : grid.1957.a
+National University of Singapore : grid.4280.e
+University of Edinburgh : grid.4305.2
+University of Nottingham : grid.4563.4
+Politecnico di Milano : grid.4643.5
+University of Oxford : grid.4991.5
+KTH Royal Institute of Technology : grid.5037.1
+Aalborg University : grid.5117.2
+Technical University of Denmark : grid.5170.3
+Delft University of Technology : grid.5292.c
+cole Polytechnique Fdrale de Lausanne : grid.5333.6
+University of Cambridge : grid.5335.0
+University of Bristol : grid.5337.2
+Chalmers University of Technology : grid.5371.0
+University of Manchester : grid.5379.8
+Cornell University : grid.5386.8
+University of Southampton : grid.5491.9
+KU Leuven : grid.5596.f
+ETH Zurich : grid.5801.c
+University of Birmingham : grid.6572.6
+Technical University of Berlin : grid.6734.6
+Eindhoven University of Technology : grid.6852.9
+Technical University of Munich : grid.6936.a
+Imperial College London : grid.7445.2
+Karlsruhe Institute of Technology : grid.7892.4
+Fudan University : grid.8547.e
+Chinese University of Hong Kong : grid.10784.3a
+Peking University : grid.11135.37
+University of Sheffield : grid.11835.3e
+Tsinghua University : grid.12527.33
+Sichuan University : grid.13291.38
+Zhejiang University : grid.13402.34
+University of Wisconsin-Madison : grid.14003.36
+McGill University : grid.14709.3b
+Yonsei University (Seoul campus) : grid.15444.30
+Princeton University : grid.16750.35
+Northwestern University : grid.16753.36
+Shanghai Jiao Tong University : grid.16821.3c
+Hong Kong Polytechnic University : grid.16890.36
+University of Toronto : grid.17063.33
+University of Alberta : grid.17089.37
+University of British Columbia : grid.17091.3e
+University of California, Los Angeles : grid.19006.3e
+National Taiwan University (NTU) : grid.19188.39
+Harbin Institute of Technology : grid.19373.3f
+California Institute of Technology : grid.20861.3d
+Johns Hopkins University : grid.21107.35
+Columbia University : grid.21729.3f
+Rice University : grid.21940.3e
+The Hong Kong University of Science and Technology : grid.24515.37
+Tongji University : grid.24516.34
+University of Pennsylvania : grid.25879.31
+Duke University : grid.26009.3d
+The University of Tokyo : grid.26999.3d
+University of California, Davis : grid.27860.3b
+Penn State (Main campus) : grid.29857.31
+Seoul National University : grid.31501.36
+Tokyo Institute of Technology : grid.32197.3e
+Huazhong University of Science and Technology : grid.33199.31
+Tianjin University : grid.33763.32
+University of Washington : grid.34477.33
+City University of Hong Kong : grid.35030.35
+University of Illinois at Urbana-Champaign : grid.35403.31
+Korea Advanced Institute of Science and Technology (KAIST) : grid.37172.30
+Harvard University : grid.38142.3c
+Brown University : grid.40263.33
+Nanjing University : grid.41156.37
+University of Southern California : grid.42505.36
+Xian Jiaotong University : grid.43169.39
+University of Waterloo : grid.46078.3d
+Yale University : grid.47100.32
+University of California, Berkeley : grid.47840.3f
+Pohang University of Science and Technology (POSTECH) : grid.49100.3c
+Nanyang Technological University, Singapore : grid.59025.3b
+University of Science and Technology of China : grid.59053.3a
+Tohoku University : grid.69566.3a
+University College London : grid.83440.3b
+University of Texas at Austin : grid.89336.37
+Massachusetts Institute of Technology : grid.116068.8
+University of California, Santa Barbara : grid.133342.4
+Carnegie Mellon University : grid.147455.6
+Stanford University : grid.168010.e
+Purdue University West Lafayette : grid.169077.e
+University of Hong Kong : grid.194645.b
+Georgia Institute of Technology : grid.213917.f
+University of Michigan-Ann Arbor : grid.214458.e
+Kyoto University : grid.258799.8
+Southeast University : grid.263826.b
+Sungkyunkwan University (SKKU) : grid.264381.a
+Texas A&M University : grid.264756.4
+University of California, San Diego : grid.266100.3
+Virginia Polytechnic Institute and State University : grid.438526.e
+Paris Sciences et Lettres  PSL Research University Paris : grid.440907.e
+Institut Polytechnique de Paris : grid.508893.f

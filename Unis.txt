@@ -1,0 +1,100 @@
+Harvard University
+Stanford University
+Massachusetts Institute of Technology
+University of Oxford
+University of Cambridge
+University of California, Berkeley
+California Institute of Technology
+Princeton University
+National University of Singapore
+Imperial College London
+ETH Zurich
+Georgia Institute of Technology
+Nanyang Technological University, Singapore
+Peking University
+Tsinghua University
+Delft University of Technology
+University of California, Los Angeles
+Yale University
+University of Michigan-Ann Arbor
+cole Polytechnique Fdrale de Lausanne
+Carnegie Mellon University
+Technical University of Munich
+Shanghai Jiao Tong University
+University of Illinois at Urbana-Champaign
+Columbia University
+University of Toronto
+Cornell University
+University of Texas at Austin
+The University of Tokyo
+Zhejiang University
+Northwestern University
+Purdue University West Lafayette
+The Hong Kong University of Science and Technology
+RWTH Aachen University
+Korea Advanced Institute of Science and Technology (KAIST)
+University of Pennsylvania
+Johns Hopkins University
+Hong Kong Polytechnic University
+KTH Royal Institute of Technology
+Seoul National University
+University of California, San Diego
+University of Manchester
+University of Hong Kong
+University of Science and Technology of China
+University College London
+University of California, Santa Barbara
+Kyoto University
+Technical University of Denmark
+University of British Columbia
+University of Washington
+Harbin Institute of Technology
+City University of Hong Kong
+KU Leuven
+Monash University
+Texas A&M University
+Fudan University
+Tongji University
+The University of Queensland
+Tohoku University
+Yonsei University (Seoul campus)
+Duke University
+Politecnico di Milano
+Pohang University of Science and Technology (POSTECH)
+Karlsruhe Institute of Technology
+Tokyo Institute of Technology
+UNSW Sydney
+Nanjing University
+The University of Sydney
+University of Melbourne
+University of Waterloo
+McGill University
+Paris Sciences et Lettres  PSL Research University Paris
+Chinese University of Hong Kong
+University of Wisconsin-Madison
+Technical University of Berlin
+Sichuan University
+Southeast University
+Xian Jiaotong University
+Huazhong University of Science and Technology
+Chalmers University of Technology
+Tianjin University
+Rice University
+University of Edinburgh
+Eindhoven University of Technology
+Sungkyunkwan University (SKKU)
+Penn State (Main campus)
+Brown University
+University of California, Davis
+University of Massachusetts
+Aalborg University
+University of Alberta
+National Taiwan University (NTU)
+Virginia Polytechnic Institute and State University
+University of Sheffield
+University of Southern California
+University of Bristol
+University of Southampton
+University of Nottingham
+Institut Polytechnique de Paris
+University of Birmingham
